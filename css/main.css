@@ -1444,7 +1444,6 @@ section> :last-child, section>.container, section:last-child, article> :last-chi
 .image.avatar48 {
   width: 60px;
   height: 60px;
-  background: #f00;
 }
 
 .image.avatar48 img {
@@ -1893,37 +1892,31 @@ input[type="button"]:active, input[type="submit"]:active, input[type="reset"]:ac
 }
 
 #main>section.one {
-  /* background-color: #F3D6CB; */
-  background-image: url("../img/reflection.jpg");
+  background-color: #279DEA;
+  background-image: url("../img/bg5.jpg");
 }
 
 #main>section.two {
   background-color: #BDD8F2;
-  /* background-color: #CEDEF4; DEEAFB BDD8F2*/
 }
 
 #main>section.three {
-  /* background-color: #ecf1f1; */
   background-color: #DDEBFC;
 }
 
 #main>section.four {
-  /* background-color: #e8edec; */
   background-color: #BDD8F2;
 }
 
 #main>section.five {
-  /* background-color: #ecf1f1; */
   background-color: #DDEBFC;
 }
 
 #main>section.six {
-  /* background-color: #ecf1f1; */
   background-color: #BDD8F2;
 }
 
 #main>section.seven {
-  /* background-color: #ecf1f1; */
   background-color: #DDEBFC;
 }
 
