@@ -1,2 +1,3 @@
 # theLightningAstro
-Hopefully this works
+
+Built with Hugo themes & Hosted on Github.
